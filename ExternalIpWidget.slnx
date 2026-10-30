@@ -1,0 +1,9 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/ExternalIp.Core/ExternalIp.Core.csproj" />
+    <Project Path="src/ExternalIp.Widget/ExternalIp.Widget.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/ExternalIp.Tests/ExternalIp.Tests.csproj" />
+  </Folder>
+</Solution>
